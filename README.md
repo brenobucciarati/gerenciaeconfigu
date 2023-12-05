@@ -1,4 +1,4 @@
-# meu-aplicativo-projeto-uninassau
+#Gerencia&Confi
 
 Para executar é necessário baixar as bibliotecas react-native-vector-icons e react-native-snap-carousel pois os icones foram retirados delas.
 
@@ -24,5 +24,17 @@ A função _renderItem é passada para o componente Carousel e renderiza cada it
 
 
 
-Nome: Breno Vinicius França Melo
+Nome: Breno Vinicius
 Matricula: 01566443
+
+Nome: Willams Aldson
+Matricula: 01538850
+
+Nome: Gabriel Diniz
+Matricula: 01519872
+
+Nome: Gabriel Cavalcante
+Matricula: 01561346
+
+Nome: Jair Gomes
+Matricula: 01363334
